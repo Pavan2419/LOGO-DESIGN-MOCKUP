@@ -1,13 +1,13 @@
 # LOGO-DESIGN-MOCKUP
-#Name:REDDY PAVAN M
-#Company:CODTECH IT SOLUTIONS
-#ID:CT6WEHY
-#Domain:Figma App Development
-#Duration:Dec17th,2024 to Feb2nd,2025
-#Mentor:NEELA SANTHOSH KUMAR
+Name:REDDY PAVAN M
+Company:CODTECH IT SOLUTIONS
+ID:CT6WEHY
+Domain:Figma App Development
+Duration:Dec17th,2024 to Feb2nd,2025
+Mentor:NEELA SANTHOSH KUMAR
+# README
 # README
 
-```markdown
 ## Project Title: RescueRide - Ambulance Booking App
 
 ### Description:
@@ -34,5 +34,4 @@ This project showcases the branding and mockups for **RescueRide**, an innovativ
 
 ### Contact Information:
 For further inquiries or feedback, feel free to contact [reddypavanyadav999@gmail.com].
-```
 
