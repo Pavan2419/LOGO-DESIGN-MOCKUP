@@ -5,9 +5,10 @@ ID:CT6WEHY
 Domain:Figma App Development
 Duration:Dec17th,2024 to Feb2nd,2025
 Mentor:NEELA SANTHOSH KUMAR
-![LOGO CONCEPTS (1)](https://github.com/user-attachments/assets/71b37cfb-5c4a-4ffb-a798-c359b167f596)
 
 ## Project Title: LOGO DESIGN MOCKUP
+![LOGO CONCEPTS (1)](https://github.com/user-attachments/assets/71b37cfb-5c4a-4ffb-a798-c359b167f596)
+
 ### Description:
 This project showcases the branding and mockups for **RescueRide**, an innovative ambulance booking app designed for doorstep emergency services. The aim is to create a strong, recognizable brand identity that reflects trust, reliability, and quick response during medical emergencies.
 
