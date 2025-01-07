@@ -5,6 +5,7 @@ ID:CT6WEHY
 Domain:Figma App Development
 Duration:Dec17th,2024 to Feb2nd,2025
 Mentor:NEELA SANTHOSH KUMAR
+![LOGO CONCEPTS (1)](https://github.com/user-attachments/assets/71b37cfb-5c4a-4ffb-a798-c359b167f596)
 
 ## Project Title: LOGO DESIGN MOCKUP
 ### Description:
